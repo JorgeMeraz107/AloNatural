@@ -11,6 +11,9 @@ Alonatural es una farmacia de medicina natural, para la salud de las personas. E
 
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/b1f37b13-8bc7-43d3-9cff-38713edf68dc" />
 
+<img width="1886" height="957" alt="image" src="https://github.com/user-attachments/assets/3147c74d-f326-4d3a-aaf4-0652a2338e4b" />
+
+
 
 
 
