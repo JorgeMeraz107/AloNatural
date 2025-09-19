@@ -1,5 +1,7 @@
 # AloNatural
-Alonatural es una farmacia de medicina natural, para la salud de las personas. Esta es la tienda oficial / Sitio de Alo Natural
+Alonatural es una farmacia de medicina natural, para la salud de las personas. Esta es la tienda oficial / Sitio de Alo Natural.
+
+*Desarrollada en PHP con bibliotecas del mismo, HTML, CSS, JS Vanilla, Tailwind CSS con una base de datos relacional en MYSQL*
 
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/4c3ce839-69bf-4def-92a7-206b7dfdde3c" />
 
